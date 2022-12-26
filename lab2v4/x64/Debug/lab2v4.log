@@ -1,0 +1,4 @@
+﻿  String.cpp
+D:\учеба\cpp_prog\ne_vazhno\lab2v4\lab2v4\String.cpp(22,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\учеба\cpp_prog\ne_vazhno\lab2v4\lab2v4\String.cpp(101,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab2v4.vcxproj -> D:\учеба\cpp_prog\ne_vazhno\lab2v4\x64\Debug\lab2v4.exe
